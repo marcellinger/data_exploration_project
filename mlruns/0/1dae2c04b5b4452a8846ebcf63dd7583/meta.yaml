@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcellinger/Library/Mobile%20Documents/com~apple~CloudDocs/Studium/4.%20Semester/Data_Exploration_Project/src/mlruns/0/1dae2c04b5b4452a8846ebcf63dd7583/artifacts
+end_time: 1681481866893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1dae2c04b5b4452a8846ebcf63dd7583
+run_name: persistent-eel-830
+run_uuid: 1dae2c04b5b4452a8846ebcf63dd7583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681481848428
+status: 3
+tags: []
+user_id: marcellinger
