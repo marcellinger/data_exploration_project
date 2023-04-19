@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcellinger/Library/Mobile%20Documents/com~apple~CloudDocs/Studium/4.%20Semester/Data_Exploration_Project/src/mlruns/0/94ada05bd80d45a6bf1c038ce1b1c54f/artifacts
+end_time: 1681940531722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94ada05bd80d45a6bf1c038ce1b1c54f
+run_name: whimsical-shrimp-382
+run_uuid: 94ada05bd80d45a6bf1c038ce1b1c54f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681940459534
+status: 3
+tags: []
+user_id: marcellinger

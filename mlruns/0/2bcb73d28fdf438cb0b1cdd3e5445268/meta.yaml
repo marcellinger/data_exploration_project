@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcellinger/Library/Mobile%20Documents/com~apple~CloudDocs/Studium/4.%20Semester/Data_Exploration_Project/src/mlruns/0/2bcb73d28fdf438cb0b1cdd3e5445268/artifacts
+end_time: 1681940752819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bcb73d28fdf438cb0b1cdd3e5445268
+run_name: debonair-sponge-390
+run_uuid: 2bcb73d28fdf438cb0b1cdd3e5445268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681940670739
+status: 3
+tags: []
+user_id: marcellinger

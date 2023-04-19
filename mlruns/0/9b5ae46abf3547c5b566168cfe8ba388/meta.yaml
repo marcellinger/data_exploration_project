@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcellinger/Library/Mobile%20Documents/com~apple~CloudDocs/Studium/4.%20Semester/Data_Exploration_Project/src/mlruns/0/9b5ae46abf3547c5b566168cfe8ba388/artifacts
+end_time: 1681940148440
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b5ae46abf3547c5b566168cfe8ba388
+run_name: masked-kite-46
+run_uuid: 9b5ae46abf3547c5b566168cfe8ba388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681940138948
+status: 3
+tags: []
+user_id: marcellinger
