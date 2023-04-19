@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcellinger/Library/Mobile%20Documents/com~apple~CloudDocs/Studium/4.%20Semester/Data_Exploration_Project/src/mlruns/0/1e91be99a0004b06b416bdbaa0925b3b/artifacts
+end_time: 1681935705776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e91be99a0004b06b416bdbaa0925b3b
+run_name: capricious-fly-208
+run_uuid: 1e91be99a0004b06b416bdbaa0925b3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681935665227
+status: 3
+tags: []
+user_id: marcellinger
