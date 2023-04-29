@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcellinger/Library/Mobile%20Documents/com~apple~CloudDocs/Studium/4.%20Semester/Data_Exploration_Project/src/mlruns/0/f5778163233742ea9059a4db3c6c22c2/artifacts
+end_time: 1682803193718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5778163233742ea9059a4db3c6c22c2
+run_name: learned-trout-755
+run_uuid: f5778163233742ea9059a4db3c6c22c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682803193683
+status: 3
+tags: []
+user_id: marcellinger

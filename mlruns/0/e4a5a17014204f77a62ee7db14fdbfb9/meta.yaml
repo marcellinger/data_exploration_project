@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcellinger/Library/Mobile%20Documents/com~apple~CloudDocs/Studium/4.%20Semester/Data_Exploration_Project/src/mlruns/0/e4a5a17014204f77a62ee7db14fdbfb9/artifacts
+end_time: 1682803194199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4a5a17014204f77a62ee7db14fdbfb9
+run_name: sassy-dolphin-738
+run_uuid: e4a5a17014204f77a62ee7db14fdbfb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682803194084
+status: 3
+tags: []
+user_id: marcellinger
